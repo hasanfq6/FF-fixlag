@@ -24,7 +24,7 @@ Simple Tool That Make The Processer Ultra Fast And Free To Play Games Smooth Wor
 <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
 
 **Installation**
-```
+```bash
 pkg install git
 pkg install python
 git clone https://github.com/Kamanati/FF-fixlag
@@ -32,7 +32,7 @@ cd FF-fixlag
 bash fixlag.sh -h 
 ```
 ### Installation with in single line 
-```
+```bash
 git clone https://github.com/Kamanati/FF-fixlag && cd FF-fixlag && bash fixlag.sh 
 ```
 ## video
