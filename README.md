@@ -35,12 +35,15 @@ bash fixlag.sh -h
 ```
 git clone https://github.com/Kamanati/FF-fixlag && cd FF-fixlag && bash fixlag.sh 
 ```
+## video
+<p align="center"> <a href="https://youtu.be/rs-qgA5oNKo"><img title="Made in INDIA" width="58%" src="/img/20220629_153017_0000.png"></a>
+
 
 ### Find Me on :
 
 <p align="left">
 
-<a href="https://github.com/Kamanati/yourphish" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Kamanati/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
 
