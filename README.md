@@ -1,7 +1,7 @@
 # FF-fixlag
 Simple Tool That Make The Processer Ultra Fast And Free To Play Games Smooth Work  from 1GP RAM -  8GP
 
-<a href="https://github.com/Kamanati/sms-anony">FF-fixlag</a>
+<a href="https://github.com/hasanfq6/sms-anony">FF-fixlag</a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" rel="nofollow"><img title="Instagram" src="https://camo.githubusercontent.com/603963737d345c892a61d11c6f0902b18b91f6fd1b5ae9754af77fd892fcd99c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d" data-canonical-src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a>
 
@@ -27,13 +27,13 @@ Simple Tool That Make The Processer Ultra Fast And Free To Play Games Smooth Wor
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/Kamanati/FF-fixlag
+git clone https://github.com/hasanfq6/FF-fixlag
 cd FF-fixlag
 bash fixlag.sh -h 
 ```
 ### Installation with in single line 
 ```bash
-git clone https://github.com/Kamanati/FF-fixlag && cd FF-fixlag && bash fixlag.sh 
+git clone https://github.com/hasanfq6/FF-fixlag && cd FF-fixlag && bash fixlag.sh 
 ```
 ## video
 <p align="center"> <a href="https://youtu.be/rs-qgA5oNKo"><img title="Made in INDIA" width="58%" src="/img/20220629_153017_0000.png"></a>
@@ -43,7 +43,7 @@ git clone https://github.com/Kamanati/FF-fixlag && cd FF-fixlag && bash fixlag.s
 
 <p align="left">
 
-<a href="https://github.com/Kamanati/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hasanfq6/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
 
